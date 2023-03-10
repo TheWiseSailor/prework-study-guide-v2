@@ -1,0 +1,80 @@
+@import url('link href="https://fonts.googleapis.com/css?family=Raleway" rel="stylesheet"');
+* {
+  box-sizing: border-box;
+  transition: all ease-in-out 250ms;
+}
+.container {
+  border: 1px solid black;
+  padding: 20px;
+
+  /*  max-width: fit-content; */
+  /*  ^code incase you want to make it available for mobile use  */
+}
+.container-1 {
+  background-color: blue;
+  padding: 5px;
+  height: 150px;
+  width: 98%;
+  color: white;
+  /*  max-width: fit-content; */
+}
+.container-2 {
+  width: 80%;
+  margin: 40px auto;
+  border: 5px solid gray;
+  box-shadow: 5px 10px #888888;
+}
+/*  max-width: fit-content; */
+/*  ^code incase you want to make it available for mobile use  */
+.container-3 {
+  width: 80%;
+  margin: 40px auto;
+  border: 5px solid gray;
+  box-shadow: 5px 10px #888888;
+}
+.container-4 {
+  width: 80%;
+  margin: 40px auto;
+  border: 5px solid gray;
+  box-shadow: 5px 10px #888888;
+}
+.container-5 {
+  width: 80%;
+  margin: 40px auto;
+  border: 5px solid gray;
+  box-shadow: 5px 10px #888888;
+}
+footer {
+  /*This will be for the part where it says I can code*/
+  background-color: blue;
+  color: white;
+  padding: 5px;
+  height: 150px;
+  width: 98%;
+
+  /*  max-width: fit-content; */
+}
+.img-1 {
+  text-align: center;
+  max-width: auto height auto;
+  padding-right: 10px;
+  margin-top: -20px;
+}
+
+h1 {
+  text-align: center;
+}
+h2 {
+  text-align: center;
+}
+main {
+  text-align: left;
+}
+.footer {
+  padding: 5px;
+}
+
+h3 {
+  font-size: 30px;
+  min-height: 50px;
+}
